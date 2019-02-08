@@ -1,0 +1,2 @@
+INSERT INTO clientes (cod_cli, nome_cli, data_nasc, cidade_nasc, pai_cli, mae_cli, cpf_cli, rg_cli, data_cad) VALUES ('1', 'H', '1981-07-10', 'M', 'Jair', 'Tjisae', '03388660948', '63244031', '2019-02-07');
+INSERT INTO clientes (cod_cli, nome_cli, data_nasc, cidade_nasc, pai_cli, mae_cli, cpf_cli, rg_cli, data_cad) VALUES ('2', 'Hugo', '1981-07-10', 'M', 'Jair', 'Tjisae', '03388660948', '63244031', '2019-02-07');
